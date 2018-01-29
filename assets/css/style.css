@@ -262,6 +262,9 @@ header{
 .service-area {
     margin: 80px 0px 40px 0px;
 }
+.service-area .block_title{
+    margin-bottom: 130px;
+}
 .service-area img{
 	cursor: pointer;
 	margin: auto;
