@@ -477,14 +477,18 @@ header{
 
 .mapWrap {
     position: relative;
-    min-height: 600px;
+	min-height: 600px;
+	background-image: url(../images/sec-contacts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 14%;
 }
-#googleMap {
+/* .contacts-background {
     position: absolute !important;
     top: 0;
     left: 0;
     height: 100%;
-}
+} */
 #contact-area {
     background: rgba(0, 0, 0, 0.7);
     width: 100%;
